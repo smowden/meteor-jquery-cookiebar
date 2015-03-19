@@ -10,7 +10,7 @@ Init:
 Pass a settings object with these props:
 message: 'We use cookies to track usage and preferences',
 
-`` message: 'We use cookies to track usage and preferences',
+ message: 'We use cookies to track usage and preferences',
  acceptButton: true,
  acceptText: 'I Understand',
  declineButton: false,
@@ -30,4 +30,4 @@ message: 'We use cookies to track usage and preferences',
  zindex: '',
  redirect: '/',
  domain: 'www.example.com',
- referrer: 'www.example.com'`# meteor-jquery-cookiebar ``
+ referrer: 'www.example.com'`# meteor-jquery-cookiebar 
