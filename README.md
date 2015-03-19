@@ -10,42 +10,24 @@ Init:
 Pass a settings object with these props:
 message: 'We use cookies to track usage and preferences',
 
+`` message: 'We use cookies to track usage and preferences',
  acceptButton: true,
- 
  acceptText: 'I Understand',
- 
  declineButton: false,
- 
  declineText: 'Disable Cookies',
- 
  policyButton: true,
- 
  policyText: 'Privacy Policy',
- 
  policyURL: '/privacy-policy/',
- 
  autoEnable: true,
- 
  acceptOnContinue: false,
- 
  expireDays: 365,
- 
  forceShow: false,
- 
  effect: 'slide',
- 
  element: 'body',
- 
  append: false,
- 
  fixed: false,
- 
  bottom: false,
- 
  zindex: '',
- 
  redirect: '/',
- 
  domain: 'www.example.com',
- 
- referrer: 'www.example.com'`# meteor-jquery-cookiebar
+ referrer: 'www.example.com'`# meteor-jquery-cookiebar ``
